@@ -1,4 +1,4 @@
-# COVID-19-Analysis
+# COVID-19 Analysis
 This is a project I did to analyse the deaths that occurred due to COVID-19 based on the available data set.
 
 * Data was taken from the Kaggle dataset.
